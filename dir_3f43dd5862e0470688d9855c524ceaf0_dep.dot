@@ -1,0 +1,12 @@
+digraph "C:/Users/David/wkspaces/DuelMe/Assets/Scripts/Items/Gadgets"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_cacb26a486bf34798d3b07dfdd5162d0 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="Items", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_cacb26a486bf34798d3b07dfdd5162d0.html",tooltip=""]
+  dir_3f43dd5862e0470688d9855c524ceaf0 [label="Gadgets", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_3f43dd5862e0470688d9855c524ceaf0.html",tooltip=""];
+  }
+}
