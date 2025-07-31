@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="Fusion.Addons.KCC.KCC",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_fusion_1_1_addons_1_1_k_c_c_1_1_k_c_c.html",tooltip="Partial implementation of KCC class to extend public API with sprint functionality."];
+}
