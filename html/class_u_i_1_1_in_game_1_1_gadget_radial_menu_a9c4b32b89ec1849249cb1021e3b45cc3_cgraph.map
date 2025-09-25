@@ -1,0 +1,9 @@
+<map id="UI.InGame.GadgetRadialMenu.Init" name="UI.InGame.GadgetRadialMenu.Init">
+<area shape="rect" id="Node000001" title="Initialize the radial menu." alt="" coords="5,47,228,73"/>
+<area shape="rect" id="Node000002" href="$class_u_i_1_1_in_game_1_1_gadget_radial_menu.html#ac066da6340ca34676daaabc82ba1be9f" title="Reinitialize the radial menu." alt="" coords="276,39,480,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,57,260,57,260,63,228,63"/>
+<area shape="rect" id="Node000003" href="$class_u_i_1_1_in_game_1_1_gadget_radial_slice.html#a3969db51f6555d705315038a1bf2e2ad" title="Sets the fill amount and rotation of this slice." alt="" coords="528,5,729,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,44,512,39,513,45,481,49"/>
+<area shape="rect" id="Node000004" href="$class_u_i_1_1_in_game_1_1_gadget_radial_slice.html#aaecf553354835f468d8b498cf26b0a2c" title="Sets the text of this slice to the name of the item and puts it in the correct position." alt="" coords="528,72,729,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="481,71,513,75,512,81,480,76"/>
+</map>

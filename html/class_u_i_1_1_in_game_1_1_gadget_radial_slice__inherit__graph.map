@@ -1,0 +1,5 @@
+<map id="UI.InGame.GadgetRadialSlice" name="UI.InGame.GadgetRadialSlice">
+<area shape="rect" id="Node000001" title="A &quot;slice&quot; of the radial menu, one section." alt="" coords="5,80,203,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,5,160,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,48,107,80,101,80,101,48"/>
+</map>

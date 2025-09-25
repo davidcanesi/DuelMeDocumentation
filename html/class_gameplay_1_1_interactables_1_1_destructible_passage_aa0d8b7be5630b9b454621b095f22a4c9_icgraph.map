@@ -1,0 +1,7 @@
+<map id="Gameplay.Interactables.DestructiblePassage.DestroyPassage" name="Gameplay.Interactables.DestructiblePassage.DestroyPassage">
+<area shape="rect" id="Node000001" title="Sets this obstruction to be invisible." alt="" coords="286,39,518,81"/>
+<area shape="rect" id="Node000002" href="$class_gameplay_1_1_gameplay_manager.html#a3f611a8844967d35a3c2b7009d0f6f13" title="Called by the Health script on a DestructiblePassage when its hit points&#39; value dips below 0." alt="" coords="23,5,220,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,47,220,41,220,36,271,42"/>
+<area shape="rect" id="Node000003" href="$class_gameplay_1_1_interactables_1_1_destructible_passage.html#a8485727429dd2a1d80ffd742b22c1e23" title="When spawned, cache references and set visibility according to current health." alt="" coords="5,72,238,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,78,239,82,238,77,270,73"/>
+</map>

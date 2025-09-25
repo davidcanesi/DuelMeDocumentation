@@ -1,0 +1,9 @@
+<map id="Gameplay.Interactables.Passage" name="Gameplay.Interactables.Passage">
+<area shape="rect" id="Node000001" title="Base class for Passages, objects on the level that obstruct movement but can be modified." alt="" coords="139,80,352,107"/>
+<area shape="rect" id="Node000003" href="$class_gameplay_1_1_interactables_1_1_destructible_passage.html" title="An object on the level that is destructible, used to block off passages." alt="" coords="5,155,238,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,117,155,156,152,152,212,113"/>
+<area shape="rect" id="Node000004" href="$class_gameplay_1_1_interactables_1_1_moveable_passage.html" title="An object on the level that is moveable, used to block off passages." alt="" coords="262,155,480,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="279,113,340,152,337,156,276,117"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="181,5,310,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,48,248,80,243,80,243,48"/>
+</map>

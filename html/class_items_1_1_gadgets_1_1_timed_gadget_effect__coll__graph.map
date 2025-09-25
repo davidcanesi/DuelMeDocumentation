@@ -1,0 +1,7 @@
+<map id="Items.Gadgets.TimedGadgetEffect" name="Items.Gadgets.TimedGadgetEffect">
+<area shape="rect" id="Node000001" title="The Effect of Timed Gadgets. Mostly inherits from the GadgetEffect base class." alt="" coords="5,155,195,197"/>
+<area shape="rect" id="Node000002" href="$class_items_1_1_gadgets_1_1_gadget_effect.html" title="Base class for Gadget Effects, i. e. what they do when they are &quot;triggered&quot;. This can be either their..." alt="" coords="6,80,194,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,122,103,154,97,154,97,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="36,5,164,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,48,103,80,97,80,97,48"/>
+</map>

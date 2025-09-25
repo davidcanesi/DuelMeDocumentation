@@ -1,0 +1,7 @@
+<map id="Items.Weapons.Weapon.HitscanAttack" name="Items.Weapons.Weapon.HitscanAttack">
+<area shape="rect" id="Node000001" title="Perform the raycast for an attack by the weapon." alt="" coords="256,39,468,81"/>
+<area shape="rect" id="Node000002" href="$class_items_1_1_weapons_1_1_gun_weapon.html#a8b388b91cdd4f3f73cf83d60fa14a936" title="Performs an attack with this weapon." alt="" coords="11,5,202,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,47,202,42,203,37,241,42"/>
+<area shape="rect" id="Node000003" href="$class_items_1_1_weapons_1_1_melee_weapon.html#ad148432b575cf7590025c69f4978c71d" title="Performs an attack with this weapon." alt="" coords="5,72,208,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,79,208,83,208,77,240,73"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Items.Item" name="Items.Item">
+<area shape="rect" id="Node000001" title="Base class for all Items (Gadgets and Weapons). Managed by an ItemHandler of the appropriate type." alt="" coords="130,80,215,107"/>
+<area shape="rect" id="Node000003" href="$class_items_1_1_gadgets_1_1_gadget.html" title="Stores all attributes of a given Gadget. This is what the player holds. This component HAS to be on a..." alt="" coords="5,155,159,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,119,99,156,96,152,144,114"/>
+<area shape="rect" id="Node000004" href="$class_items_1_1_weapons_1_1_weapon.html" title="Base class for all types of Weapon. This is what the player holds. This component HAS to be on a Game..." alt="" coords="183,155,346,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,114,250,152,247,156,199,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="108,5,237,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,48,175,80,170,80,170,48"/>
+<area shape="rect" id="Node000005" href="$class_items_1_1_weapons_1_1_gun_weapon.html" title="Hitscan Weapon that fire projectiles at a distance (not melee)." alt="" coords="62,229,249,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="234,193,176,231,173,226,231,188"/>
+<area shape="rect" id="Node000006" href="$class_items_1_1_weapons_1_1_melee_weapon.html" title="Melee weapons. Unlike GunWeapons, they don&#39;t need reload functionality, muzzle flash effects,..." alt="" coords="274,229,472,256"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="298,188,355,226,352,231,295,193"/>
+</map>

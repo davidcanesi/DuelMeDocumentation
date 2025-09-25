@@ -1,0 +1,65 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="25,5,114,32"/>
+<area shape="rect" id="Node000001" href="$class_players_1_1_input_1_1_player_input_handler.html" title="Takes in player inputs through Unity&#39;s &quot;new&quot; input system, and sends them for processing by the playe..." alt="" coords="206,23,374,65"/>
+<area shape="poly" id="edge12_Node000000_Node000001" title=" " alt="" coords="129,23,206,32,205,37,129,28"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="17,56,122,83"/>
+<area shape="poly" id="edge13_Node000002_Node000001" title=" " alt="" coords="137,59,205,51,206,56,138,64"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,292,134,319"/>
+<area shape="poly" id="edge41_Node000003_Node000001" title=" " alt="" coords="74,276,87,232,108,178,138,123,158,98,180,75,204,60,207,64,183,79,162,101,143,126,113,180,92,234,79,278"/>
+<area shape="rect" id="Node000004" href="$class_gameplay_1_1_gameplay_manager.html" title="Drives gameplay logic &#45; state, timing, handles player connect/disconnect/spawn/despawn/death,..." alt="" coords="194,89,386,116"/>
+<area shape="poly" id="edge14_Node000003_Node000004" title=" " alt="" coords="78,276,93,241,115,201,144,160,180,126,201,114,204,119,183,130,148,164,119,203,98,244,83,278"/>
+<area shape="rect" id="Node000005" href="$class_gameplay_1_1_health.html" title="Stores player or object health, triggers heal/damage effects and informs about player death." alt="" coords="230,140,351,167"/>
+<area shape="poly" id="edge15_Node000003_Node000005" title=" " alt="" coords="85,277,124,225,150,199,180,176,204,165,228,158,230,163,206,170,183,181,154,203,128,229,89,280"/>
+<area shape="rect" id="Node000006" href="$class_gameplay_1_1_interactables_1_1_jump_pad.html" title="An object in the level that adds an upwards impulse to the Player when it enters its trigger collider..." alt="" coords="182,191,399,217"/>
+<area shape="poly" id="edge16_Node000003_Node000006" title=" " alt="" coords="97,280,135,252,181,227,213,215,215,220,183,232,138,257,100,284"/>
+<area shape="rect" id="Node000007" href="$class_gameplay_1_1_interactables_1_1_passage.html" title="Base class for Passages, objects on the level that obstruct movement but can be modified." alt="" coords="184,241,397,268"/>
+<area shape="poly" id="edge17_Node000003_Node000007" title=" " alt="" coords="145,285,228,266,230,271,146,291"/>
+<area shape="rect" id="Node000010" href="$class_items_1_1_gadgets_1_1_gadget_effect.html" title="Base class for Gadget Effects, i. e. what they do when they are &quot;triggered&quot;. This can be either their..." alt="" coords="197,292,384,319"/>
+<area shape="poly" id="edge20_Node000003_Node000010" title=" " alt="" coords="149,303,196,303,196,308,149,308"/>
+<area shape="rect" id="Node000019" href="$class_items_1_1_gadgets_1_1_gadget_useable.html" title="The represantation of the Gadget that gets deployed in the game world." alt="" coords="190,343,391,369"/>
+<area shape="poly" id="edge29_Node000003_Node000019" title=" " alt="" coords="146,320,230,339,228,345,145,325"/>
+<area shape="rect" id="Node000022" href="$class_items_1_1_item.html" title="Base class for all Items (Gadgets and Weapons). Managed by an ItemHandler of the appropriate type." alt="" coords="248,397,332,424"/>
+<area shape="poly" id="edge32_Node000003_Node000022" title=" " alt="" coords="100,326,138,354,183,379,216,391,248,400,247,405,214,396,181,384,135,358,97,330"/>
+<area shape="rect" id="Node000027" href="$class_items_1_1_item_handler.html" title="Manages Items (Gadgets and Weapons), handles which one is currently held, what Items the player has,..." alt="" coords="226,448,355,475"/>
+<area shape="poly" id="edge37_Node000003_Node000027" title=" " alt="" coords="88,330,127,384,153,411,183,434,226,451,224,456,180,438,150,415,123,387,84,334"/>
+<area shape="rect" id="Node000030" href="$class_players_1_1_effects_1_1_player_sounds.html" title="Manages the sounds emitted by the player (footsteps, movement sounds)." alt="" coords="193,499,388,525"/>
+<area shape="poly" id="edge40_Node000003_Node000030" title=" " alt="" coords="83,332,97,368,119,409,147,450,183,485,204,496,201,500,180,489,143,454,114,412,92,370,78,334"/>
+<area shape="rect" id="Node000031" href="$class_players_1_1_player.html" title="Main player script which handles input processing, visuals." alt="" coords="237,549,344,576"/>
+<area shape="poly" id="edge42_Node000003_Node000031" title=" " alt="" coords="79,333,90,378,111,433,141,489,161,514,183,535,209,549,238,557,236,562,207,554,180,539,157,517,137,491,106,435,85,379,73,334"/>
+<area shape="rect" id="Node000008" href="$class_gameplay_1_1_interactables_1_1_destructible_passage.html" title="An object on the level that is destructible, used to block off passages." alt="" coords="447,35,679,77"/>
+<area shape="poly" id="edge18_Node000007_Node000008" title=" " alt="" coords="393,231,397,227,411,211,418,195,421,160,424,124,431,105,445,87,461,76,464,80,449,91,436,108,429,125,426,160,423,196,415,214,401,231,397,235"/>
+<area shape="rect" id="Node000009" href="$class_gameplay_1_1_interactables_1_1_moveable_passage.html" title="An object on the level that is moveable, used to block off passages." alt="" coords="454,101,672,144"/>
+<area shape="poly" id="edge19_Node000007_Node000009" title=" " alt="" coords="390,232,397,227,413,210,421,192,429,173,445,154,465,142,467,147,449,158,433,175,426,194,418,213,401,231,393,236"/>
+<area shape="rect" id="Node000011" href="$class_items_1_1_gadgets_1_1_deploy_gadget_effect.html" title="The Effect of Deployable Gadgets. Extends the base class with networked Deployed and Triggered proper..." alt="" coords="466,168,660,211"/>
+<area shape="poly" id="edge21_Node000010_Node000011" title=" " alt="" coords="387,283,397,278,412,265,421,250,430,235,445,220,467,209,469,214,449,225,434,238,425,253,417,268,401,282,390,288"/>
+<area shape="rect" id="Node000017" href="$class_items_1_1_gadgets_1_1_timed_gadget_effect.html" title="The Effect of Timed Gadgets. Mostly inherits from the GadgetEffect base class." alt="" coords="468,235,658,277"/>
+<area shape="poly" id="edge27_Node000010_Node000017" title=" " alt="" coords="382,286,467,271,468,276,383,291"/>
+<area shape="rect" id="Node000012" href="$class_items_1_1_gadgets_1_1_landmine_effect.html" title="The Effect of the Landmine Gadget. After deployment, it checks if a player walks onto it,..." alt="" coords="728,29,930,56"/>
+<area shape="poly" id="edge22_Node000011_Node000012" title=" " alt="" coords="672,158,677,154,694,133,701,111,708,88,726,66,746,54,748,59,729,70,712,91,706,113,699,136,681,158,675,162"/>
+<area shape="rect" id="Node000013" href="$class_items_1_1_gadgets_1_1_motion_sensor_effect.html" title="The Effect of the Motion Sensor Gadget. After deployment, it checks if a player walks into its laser,..." alt="" coords="733,80,925,123"/>
+<area shape="poly" id="edge23_Node000011_Node000013" title=" " alt="" coords="659,160,678,154,726,132,758,121,760,126,728,137,680,158,661,165"/>
+<area shape="rect" id="Node000014" href="$class_items_1_1_gadgets_1_1_smoke_effect.html" title="The Effect of the Smoke Gadget. After deployment, it activates a holographic wall that can be shot an..." alt="" coords="736,147,922,173"/>
+<area shape="poly" id="edge24_Node000011_Node000014" title=" " alt="" coords="676,174,735,168,736,173,676,180"/>
+<area shape="rect" id="Node000015" href="$class_items_1_1_gadgets_1_1_sound_diversion_effect.html" title="The Effect of the Sound Diversion Gadget. After deployment, it plays a random sound every random X ti..." alt="" coords="727,197,931,240"/>
+<area shape="poly" id="edge25_Node000011_Node000015" title=" " alt="" coords="677,199,727,205,726,210,676,204"/>
+<area shape="rect" id="Node000016" href="$class_items_1_1_gadgets_1_1_tripmine_effect.html" title="The Effect of the Tripmine Gadget. After deployment, it checks if a player walks into its laser,..." alt="" coords="731,264,927,291"/>
+<area shape="poly" id="edge26_Node000011_Node000016" title=" " alt="" coords="665,214,681,220,705,235,728,250,762,261,760,266,726,254,702,240,678,225,663,219"/>
+<area shape="rect" id="Node000018" href="$class_items_1_1_gadgets_1_1_grenade_effect.html" title="The Effect of the Grenade Gadget. Explodes CookTime seconds after being used, dealing damage to the p..." alt="" coords="732,315,926,341"/>
+<area shape="poly" id="edge28_Node000017_Node000018" title=" " alt="" coords="655,279,728,300,772,312,771,317,727,305,654,285"/>
+<area shape="rect" id="Node000020" href="$class_items_1_1_gadgets_1_1_deploy_gadget_useable.html" title="Representation of Deployable Gadgets in the game world." alt="" coords="466,301,660,344"/>
+<area shape="poly" id="edge30_Node000019_Node000020" title=" " alt="" coords="406,339,465,332,466,337,407,344"/>
+<area shape="rect" id="Node000021" href="$class_items_1_1_gadgets_1_1_timed_gadget_useable.html" title="Representation of Timed Gadgets in the game world." alt="" coords="468,368,658,411"/>
+<area shape="poly" id="edge31_Node000019_Node000021" title=" " alt="" coords="407,368,469,375,468,380,406,373"/>
+<area shape="rect" id="Node000023" href="$class_items_1_1_gadgets_1_1_gadget.html" title="Stores all attributes of a given Gadget. This is what the player holds. This component HAS to be on a..." alt="" coords="486,435,640,461"/>
+<area shape="poly" id="edge33_Node000022_Node000023" title=" " alt="" coords="348,416,486,435,486,440,347,421"/>
+<area shape="rect" id="Node000024" href="$class_items_1_1_weapons_1_1_weapon.html" title="Base class for all types of Weapon. This is what the player holds. This component HAS to be on a Game..." alt="" coords="482,485,645,512"/>
+<area shape="poly" id="edge34_Node000022_Node000024" title=" " alt="" coords="348,417,400,434,415,443,425,453,434,462,448,471,482,483,480,488,446,476,431,466,421,457,412,447,398,438,347,422"/>
+<area shape="rect" id="Node000025" href="$class_items_1_1_weapons_1_1_gun_weapon.html" title="Hitscan Weapon that fire projectiles at a distance (not melee)." alt="" coords="735,460,923,487"/>
+<area shape="poly" id="edge35_Node000024_Node000025" title=" " alt="" coords="660,487,735,480,735,485,660,492"/>
+<area shape="rect" id="Node000026" href="$class_items_1_1_weapons_1_1_melee_weapon.html" title="Melee weapons. Unlike GunWeapons, they don&#39;t need reload functionality, muzzle flash effects,..." alt="" coords="730,511,928,537"/>
+<area shape="poly" id="edge36_Node000024_Node000026" title=" " alt="" coords="661,505,730,512,729,517,660,511"/>
+<area shape="rect" id="Node000028" href="$class_items_1_1_gadgets_1_1_gadget_handler.html" title="Manages the player&#39;s Gadgets and the radial menu." alt="" coords="464,536,662,563"/>
+<area shape="poly" id="edge38_Node000027_Node000028" title=" " alt="" coords="371,473,400,484,415,494,425,504,434,513,448,522,479,533,477,538,446,526,431,517,421,507,412,498,398,489,369,478"/>
+<area shape="rect" id="Node000029" href="$class_items_1_1_weapons_1_1_weapon_handler.html" title="Manages the player&#39;s Weapons and their spread." alt="" coords="459,587,667,613"/>
+<area shape="poly" id="edge39_Node000027_Node000029" title=" " alt="" coords="371,469,401,485,419,507,425,530,432,552,449,573,468,584,465,588,445,577,427,555,420,531,414,509,397,489,368,474"/>
+</map>

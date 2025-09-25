@@ -1,0 +1,5 @@
+<map id="Items.Gadgets.DeployGadgetUseable.StartDeployment" name="Items.Gadgets.DeployGadgetUseable.StartDeployment">
+<area shape="rect" id="Node000001" title="Start the deployment of a gadget." alt="" coords="235,5,429,48"/>
+<area shape="rect" id="Node000002" href="$class_items_1_1_gadgets_1_1_gadget.html#a5cbbf219369ad67e525b16647b9ff295" title="Use (deploy/throw) this Gadget." alt="" coords="5,5,187,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,29,187,29,187,24,219,24"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Items.ItemHandler.GetItem" name="Items.ItemHandler.GetItem">
+<area shape="rect" id="Node000001" title="Retrieves an Item from HeldItems." alt="" coords="490,13,670,40"/>
+<area shape="rect" id="Node000002" href="$class_items_1_1_item_handler.html#a8100cd92ba200c5d4badfefbb577b4df" title="Sets &quot;best&quot; (lowest slot) Item as current, if any exist." alt="" coords="262,5,442,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,29,442,29,442,24,475,24"/>
+<area shape="rect" id="Node000003" href="$class_items_1_1_item_handler.html#a80ceeb9623af5580210adcb766adecb2" title="Removes an Item from HeldItems." alt="" coords="5,13,214,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,29,214,29,214,24,246,24"/>
+</map>

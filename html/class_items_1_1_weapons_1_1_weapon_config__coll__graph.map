@@ -1,0 +1,8 @@
+<map id="Items.Weapons.WeaponConfig" name="Items.Weapons.WeaponConfig">
+<area shape="rect" id="Node000001" title="Used to define all properties unique to a GunWeapon." alt="" coords="5,180,207,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,5,159,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,47,108,180,103,180,99,48"/>
+<area shape="rect" id="Node000003" href="$class_items_1_1_weapons_1_1_spray_pattern.html" title="Used to define a spray (recoil) pattern for automatic weapons." alt="" coords="122,81,314,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="135,38,199,79,197,83,132,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,120,122,181,119,177,190,116"/>
+</map>

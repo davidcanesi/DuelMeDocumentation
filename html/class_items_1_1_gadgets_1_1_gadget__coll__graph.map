@@ -1,0 +1,7 @@
+<map id="Items.Gadgets.Gadget" name="Items.Gadgets.Gadget">
+<area shape="rect" id="Node000001" title="Stores all attributes of a given Gadget. This is what the player holds. This component HAS to be on a..." alt="" coords="5,155,159,181"/>
+<area shape="rect" id="Node000002" href="$class_items_1_1_item.html" title="Base class for all Items (Gadgets and Weapons). Managed by an ItemHandler of the appropriate type." alt="" coords="40,80,124,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,122,85,154,79,154,79,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="18,5,146,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,48,85,80,79,80,79,48"/>
+</map>

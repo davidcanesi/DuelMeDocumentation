@@ -1,0 +1,6 @@
+<map id="Networking.CodeGenerator.Create" name="Networking.CodeGenerator.Create">
+<area shape="rect" id="Node000001" title="Create a random party code with default length." alt="" coords="237,29,420,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="366,16,352,10,328,8,307,10,293,15,288,21,290,28,284,29,283,19,290,10,305,5,328,3,353,5,368,11"/>
+<area shape="rect" id="Node000002" href="$class_networking_1_1_code_generator.html#a67a4e235035d016d07913cc0b630e576" title="Create a party code with variable length." alt="" coords="5,29,189,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="221,53,189,53,189,48,221,48"/>
+</map>

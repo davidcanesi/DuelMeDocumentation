@@ -1,0 +1,7 @@
+<map id="Items.Gadgets.GadgetHandler" name="Items.Gadgets.GadgetHandler">
+<area shape="rect" id="Node000001" title="Manages the player&#39;s Gadgets and the radial menu." alt="" coords="5,155,204,181"/>
+<area shape="rect" id="Node000002" href="$class_items_1_1_item_handler.html" title="Manages Items (Gadgets and Weapons), handles which one is currently held, what Items the player has,..." alt="" coords="40,80,169,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,122,107,154,102,154,102,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="40,5,169,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,48,107,80,102,80,102,48"/>
+</map>

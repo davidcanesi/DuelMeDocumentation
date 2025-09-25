@@ -1,0 +1,5 @@
+<map id="Gameplay.Interactables.DestructiblePassage.DestroyPassage" name="Gameplay.Interactables.DestructiblePassage.DestroyPassage">
+<area shape="rect" id="Node000001" title="Sets this obstruction to be invisible." alt="" coords="5,5,238,48"/>
+<area shape="rect" id="Node000002" href="$class_gameplay_1_1_interactables_1_1_passage.html#ac4033ca7501c181baf559ee5acf528cd" title="Trigger the effect of all currently attached gadgets." alt="" coords="286,5,503,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,24,270,24,270,29,238,29"/>
+</map>

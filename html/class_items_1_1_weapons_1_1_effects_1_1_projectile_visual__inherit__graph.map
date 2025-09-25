@@ -1,0 +1,9 @@
+<map id="Items.Weapons.Effects.ProjectileVisual" name="Items.Weapons.Effects.ProjectileVisual">
+<area shape="rect" id="Node000001" title="Base class for both bullet and melee visual impacts." alt="" coords="165,39,380,81"/>
+<area shape="rect" id="Node000003" href="$class_items_1_1_weapons_1_1_effects_1_1_gun_projectile_visual.html" title="The bullet visuals mid&#45;air (not networked, purely cosmetical)." alt="" coords="434,5,619,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="395,41,433,36,433,41,396,46"/>
+<area shape="rect" id="Node000004" href="$class_items_1_1_weapons_1_1_effects_1_1_melee_projectile_visual.html" title="The visuals for melee attacks." alt="" coords="428,72,624,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="396,74,428,78,427,83,395,79"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,117,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,57,164,57,164,63,132,63"/>
+</map>

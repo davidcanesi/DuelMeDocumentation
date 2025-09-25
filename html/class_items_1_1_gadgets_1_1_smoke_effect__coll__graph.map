@@ -1,0 +1,9 @@
+<map id="Items.Gadgets.SmokeEffect" name="Items.Gadgets.SmokeEffect">
+<area shape="rect" id="Node000001" title="The Effect of the Smoke Gadget. After deployment, it activates a holographic wall that can be shot an..." alt="" coords="9,245,196,272"/>
+<area shape="rect" id="Node000002" href="$class_items_1_1_gadgets_1_1_deploy_gadget_effect.html" title="The Effect of Deployable Gadgets. Extends the base class with networked Deployed and Triggered proper..." alt="" coords="5,155,200,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,213,105,245,100,245,100,213"/>
+<area shape="rect" id="Node000003" href="$class_items_1_1_gadgets_1_1_gadget_effect.html" title="Base class for Gadget Effects, i. e. what they do when they are &quot;triggered&quot;. This can be either their..." alt="" coords="9,80,196,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,122,105,154,100,154,100,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="38,5,167,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,48,105,80,100,80,100,48"/>
+</map>

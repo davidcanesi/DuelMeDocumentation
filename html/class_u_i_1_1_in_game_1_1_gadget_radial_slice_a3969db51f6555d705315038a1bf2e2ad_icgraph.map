@@ -1,0 +1,7 @@
+<map id="UI.InGame.GadgetRadialSlice.SetFillAndRotation" name="UI.InGame.GadgetRadialSlice.SetFillAndRotation">
+<area shape="rect" id="Node000001" title="Sets the fill amount and rotation of this slice." alt="" coords="528,5,729,48"/>
+<area shape="rect" id="Node000002" href="$class_u_i_1_1_in_game_1_1_gadget_radial_menu.html#ac066da6340ca34676daaabc82ba1be9f" title="Reinitialize the radial menu." alt="" coords="276,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,29,480,29,480,24,512,24"/>
+<area shape="rect" id="Node000003" href="$class_u_i_1_1_in_game_1_1_gadget_radial_menu.html#a9c4b32b89ec1849249cb1021e3b45cc3" title="Initialize the radial menu." alt="" coords="5,13,228,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,29,228,29,228,24,260,24"/>
+</map>

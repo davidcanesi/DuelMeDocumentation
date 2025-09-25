@@ -1,0 +1,5 @@
+<map id="Items.Weapons.GunWeapon.Attack" name="Items.Weapons.GunWeapon.Attack">
+<area shape="rect" id="Node000001" title="Performs an attack with this weapon." alt="" coords="5,5,197,48"/>
+<area shape="rect" id="Node000002" href="$class_items_1_1_weapons_1_1_weapon.html#ac3ca6019a1662a591e7a296440567b43" title="Perform the raycast for an attack by the weapon." alt="" coords="245,5,457,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,24,229,24,229,29,197,29"/>
+</map>

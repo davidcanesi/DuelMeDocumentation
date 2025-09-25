@@ -1,0 +1,5 @@
+<map id="Items.Weapons.Weapon.ProjectileData" name="Items.Weapons.Weapon.ProjectileData">
+<area shape="rect" id="Node000001" title="Structure representing single projectile shot." alt="" coords="5,80,255,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="75,5,185,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,48,133,80,127,80,127,48"/>
+</map>

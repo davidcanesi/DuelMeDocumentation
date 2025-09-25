@@ -1,0 +1,48 @@
+<map id="Items.ItemHandler" name="Items.ItemHandler">
+<area shape="rect" id="Node000001" title="Manages Items (Gadgets and Weapons), handles which one is currently held, what Items the player has,..." alt="" coords="1546,673,1675,700"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,338,140,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,380,95,469,108,524,126,580,152,632,185,675,205,691,227,704,251,712,278,714,1401,714,1477,709,1547,698,1548,703,1478,714,1401,720,278,720,250,717,225,709,202,696,181,679,147,635,122,582,103,526,89,470,76,381"/>
+<area shape="rect" id="Node000003" href="$class_items_1_1_item.html" title="Base class for all Items (Gadgets and Weapons). Managed by an ItemHandler of the appropriate type." alt="" coords="237,557,321,584"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="88,379,119,448,142,486,171,519,203,541,238,556,236,561,201,546,168,523,138,489,114,451,83,381"/>
+<area shape="rect" id="Node000004" href="$class_players_1_1_player.html" title="Main player script which handles input processing, visuals." alt="" coords="1347,366,1453,393"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="97,325,129,294,171,261,222,234,249,227,278,224,1096,224,1164,228,1216,241,1265,266,1324,302,1362,333,1390,364,1386,368,1359,337,1321,306,1263,270,1214,246,1163,233,1096,229,278,229,250,232,224,239,174,265,132,298,100,329"/>
+<area shape="rect" id="Node000006" href="$class_gameplay_1_1_health.html" title="Stores player or object health, triggers heal/damage effects and informs about player death." alt="" coords="387,162,509,189"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="84,323,96,294,114,262,138,231,168,206,222,181,280,169,337,165,387,166,387,171,337,170,281,174,224,186,171,210,142,234,119,265,101,297,89,325"/>
+<area shape="rect" id="Node000008" href="$class_items_1_1_item_handler.html" title="Manages Items (Gadgets and Weapons), handles which one is currently held, what Items the player has,..." alt="" coords="561,557,690,584"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="106,373,147,404,196,433,270,463,373,496,574,554,572,559,372,501,268,468,194,438,144,408,103,377"/>
+<area shape="rect" id="Node000015" href="$class_players_1_1_input_1_1_player_input_handler.html" title="Takes in player inputs through Unity&#39;s &quot;new&quot; input system, and sends them for processing by the playe..." alt="" coords="195,92,363,134"/>
+<area shape="poly" id="edge23_Node000015_Node000002" title=" " alt="" coords="82,322,93,286,111,243,136,198,168,159,187,144,208,133,211,137,190,149,172,163,140,201,116,245,98,288,87,324"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="329,587,387,608,461,630,542,646,625,653,1401,653,1478,658,1548,670,1547,675,1477,664,1401,658,624,658,541,652,459,635,386,613,327,592"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="337,568,561,568,561,573,337,573"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="1421,405,1602,671,1598,674,1417,408"/>
+<area shape="poly" id="edge13_Node000008_Node000004" title=" " alt="" coords="1343,401,1275,421,1199,440,1130,452,1070,458,968,462,919,464,868,471,810,483,744,504,720,518,652,559,649,554,718,513,742,499,809,478,867,465,919,459,968,456,1070,452,1129,446,1198,434,1273,416,1342,396"/>
+<area shape="rect" id="Node000005" href="$class_fusion_1_1_addons_1_1_k_c_c_1_1_k_c_c.html" title="Partial implementation of KCC class to extend public API with walk and crouch functionality." alt="" coords="1007,336,1182,362"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="1198,357,1347,372,1346,377,1197,362"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="524,171,724,169,974,170,1199,181,1278,191,1306,198,1324,206,1343,222,1359,242,1382,287,1394,332,1400,366,1395,366,1389,333,1377,289,1355,245,1340,226,1321,210,1304,203,1277,196,1198,186,974,175,724,174,524,177"/>
+<area shape="rect" id="Node000007" href="$class_items_1_1_weapons_1_1_weapon_handler.html" title="Manages the player&#39;s Weapons and their spread." alt="" coords="990,530,1199,557"/>
+<area shape="poly" id="edge9_Node000004_Node000007" title=" " alt="" coords="1214,553,1270,545,1297,536,1321,523,1351,494,1372,458,1386,421,1393,393,1398,394,1391,423,1377,460,1355,497,1324,527,1299,541,1271,550,1214,558"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="706,564,966,549,990,548,990,553,966,554,706,569"/>
+<area shape="rect" id="Node000013" href="$class_items_1_1_gadgets_1_1_gadget_handler.html" title="Manages the player&#39;s Gadgets and the radial menu." alt="" coords="995,581,1194,608"/>
+<area shape="poly" id="edge19_Node000013_Node000008" title=" " alt="" coords="706,579,743,582,875,589,995,592,995,597,874,595,743,588,705,584"/>
+<area shape="rect" id="Node000009" href="$class_gameplay_1_1_utilities_1_1_scene_objects.html" title="Singleton on Runner used to obtain scene object references using lazy getters." alt="" coords="195,769,363,812"/>
+<area shape="poly" id="edge28_Node000001_Node000009" title=" " alt="" coords="379,794,497,800,625,802,1401,802,1432,799,1462,791,1518,762,1563,728,1595,698,1598,702,1567,732,1520,767,1464,796,1433,804,1401,808,624,808,496,805,379,800"/>
+<area shape="poly" id="edge14_Node000008_Node000009" title=" " alt="" coords="326,758,602,582,604,586,329,763"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="5,777,146,804"/>
+<area shape="poly" id="edge15_Node000009_Node000010" title=" " alt="" coords="161,788,195,788,195,793,161,793"/>
+<area shape="rect" id="Node000011" href="$class_players_1_1_animation_1_1_i_k_control.html" title="Controller for the Inverse Kinematics on the player&#39;s hands. Will be replaced in the animation overha..." alt="" coords="533,477,719,504"/>
+<area shape="poly" id="edge16_Node000007_Node000011" title=" " alt="" coords="735,500,990,529,990,535,734,505"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="224,397,335,424"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="351,424,565,474,564,479,349,429"/>
+<area shape="rect" id="Node000014" href="$class_gameplay_1_1_interactables_1_1_interaction_handler.html" title="Handles interacting with interactable objects, such as WallButtons." alt="" coords="743,389,966,432"/>
+<area shape="poly" id="edge21_Node000014_Node000012" title=" " alt="" coords="350,408,742,408,742,413,350,413"/>
+<area shape="rect" id="Node000018" href="$class_players_1_1_effects_1_1_player_effects.html" title="Manages the effects produced by the player." alt="" coords="758,310,951,337"/>
+<area shape="poly" id="edge27_Node000018_Node000012" title=" " alt="" coords="350,395,387,389,758,334,759,340,388,394,351,401"/>
+<area shape="poly" id="edge18_Node000004_Node000013" title=" " alt="" coords="1171,608,1209,611,1248,609,1287,600,1321,582,1342,562,1359,539,1381,485,1392,433,1396,393,1401,394,1397,433,1386,486,1363,541,1346,566,1324,586,1288,605,1249,614,1209,616,1171,613"/>
+<area shape="poly" id="edge20_Node000004_Node000014" title=" " alt="" coords="982,405,1198,396,1346,383,1347,388,1199,401,982,410"/>
+<area shape="poly" id="edge22_Node000004_Node000015" title=" " alt="" coords="371,85,457,65,564,46,685,32,816,27,951,34,1018,44,1084,59,1149,79,1211,105,1269,137,1324,176,1345,197,1362,222,1384,276,1396,327,1400,366,1395,366,1391,328,1379,277,1357,224,1341,201,1321,180,1267,142,1208,110,1147,84,1083,64,1017,50,950,40,816,32,686,37,564,51,458,70,372,90"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="23,45,128,72"/>
+<area shape="poly" id="edge24_Node000015_Node000016" title=" " alt="" coords="144,74,198,89,196,94,142,79"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="31,96,120,122"/>
+<area shape="poly" id="edge25_Node000015_Node000017" title=" " alt="" coords="135,108,195,109,195,114,135,113"/>
+<area shape="poly" id="edge26_Node000004_Node000018" title=" " alt="" coords="966,306,1046,300,1137,300,1232,309,1324,331,1356,346,1383,364,1380,368,1354,350,1322,336,1231,315,1137,306,1046,306,966,311"/>
+</map>

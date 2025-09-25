@@ -1,0 +1,7 @@
+<map id="Networking.PoolObjectProvider" name="Networking.PoolObjectProvider">
+<area shape="rect" id="Node000001" title="Custom pooled object provider for Runner.Spawn/Despawn." alt="" coords="51,80,254,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,40,140,78,136,82,93,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="156,5,317,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,45,169,82,165,78,209,40"/>
+</map>

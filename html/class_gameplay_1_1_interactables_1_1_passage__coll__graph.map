@@ -1,0 +1,5 @@
+<map id="Gameplay.Interactables.Passage" name="Gameplay.Interactables.Passage">
+<area shape="rect" id="Node000001" title="Base class for Passages, objects on the level that obstruct movement but can be modified." alt="" coords="5,80,219,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,48,115,80,109,80,109,48"/>
+</map>

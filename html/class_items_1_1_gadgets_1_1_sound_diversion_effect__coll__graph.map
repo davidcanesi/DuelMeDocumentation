@@ -1,0 +1,9 @@
+<map id="Items.Gadgets.SoundDiversionEffect" name="Items.Gadgets.SoundDiversionEffect">
+<area shape="rect" id="Node000001" title="The Effect of the Sound Diversion Gadget. After deployment, it plays a random sound every random X ti..." alt="" coords="5,245,209,288"/>
+<area shape="rect" id="Node000002" href="$class_items_1_1_gadgets_1_1_deploy_gadget_effect.html" title="The Effect of Deployable Gadgets. Extends the base class with networked Deployed and Triggered proper..." alt="" coords="10,155,204,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,213,110,245,104,245,104,213"/>
+<area shape="rect" id="Node000003" href="$class_items_1_1_gadgets_1_1_gadget_effect.html" title="Base class for Gadget Effects, i. e. what they do when they are &quot;triggered&quot;. This can be either their..." alt="" coords="13,80,201,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,122,110,154,104,154,104,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="43,5,171,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,48,110,80,104,80,104,48"/>
+</map>

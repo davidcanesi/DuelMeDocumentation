@@ -1,0 +1,20 @@
+<map id="UI.InGame.UIPlayerView" name="UI.InGame.UIPlayerView">
+<area shape="rect" id="Node000001" title="Manages all parts of the Player UI (health bar, weapons/gadgets, crosshair, hints)." alt="" coords="437,120,607,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,122,117,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,107,114,65,138,45,165,30,233,8,262,3,290,3,347,15,414,42,444,58,471,79,511,118,507,122,468,83,441,63,412,47,346,20,290,9,263,9,234,13,167,35,141,49,117,69,82,111"/>
+<area shape="rect" id="Node000003" href="$class_u_i_1_1_in_game_1_1_u_i_health.html" title="Manages the UI for the health bar." alt="" coords="175,44,316,71"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="99,112,165,81,196,69,198,74,167,85,102,117"/>
+<area shape="rect" id="Node000004" href="$class_u_i_1_1_in_game_1_1_u_i_weapons.html" title="Manages the on&#45;screen weapons UI (ammo counts, key prompts for equipping, currently held weapons,..." alt="" coords="167,95,324,122"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="132,122,166,117,167,122,132,127"/>
+<area shape="rect" id="Node000005" href="$class_u_i_1_1_in_game_1_1_u_i_gadgets.html" title="Manages the screen space part of the Gadgets&#39; UI." alt="" coords="170,146,322,172"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="132,142,169,146,169,152,132,147"/>
+<area shape="rect" id="Node000006" href="$class_u_i_1_1_in_game_1_1_u_i_crosshair.html" title="Manages the player&#39;s crosshair." alt="" coords="166,199,325,226"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="104,153,167,182,204,196,202,201,165,187,102,158"/>
+<area shape="rect" id="Node000007" href="$class_u_i_1_1_in_game_1_1_u_i_hints.html" title="Manages the UI for on&#45;screen button prompt hints." alt="" coords="178,254,313,280"/>
+<area shape="poly" id="edge11_Node000007_Node000002" title=" " alt="" coords="84,159,121,198,167,235,198,251,196,255,165,240,117,202,81,162"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,67,414,86,494,117,492,122,413,91,331,72"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="340,114,437,123,437,129,340,120"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="337,155,413,150,448,145,448,150,414,155,337,160"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="340,201,413,184,458,166,497,145,499,150,460,171,414,190,342,206"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="327,256,371,245,412,229,442,210,468,187,508,146,512,149,472,191,445,214,415,233,372,250,329,261"/>
+</map>

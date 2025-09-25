@@ -1,0 +1,9 @@
+<map id="Players.Input.PlayerInputHandler" name="Players.Input.PlayerInputHandler">
+<area shape="rect" id="Node000001" title="Takes in player inputs through Unity&#39;s &quot;new&quot; input system, and sends them for processing by the playe..." alt="" coords="127,80,295,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,134,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,38,176,77,173,82,103,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="158,5,264,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,48,214,80,208,80,208,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="288,5,376,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,43,243,82,240,77,299,39"/>
+</map>

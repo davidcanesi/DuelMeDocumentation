@@ -1,0 +1,5 @@
+<map id="Gameplay.Utilities.SpawnPoint" name="Gameplay.Utilities.SpawnPoint">
+<area shape="rect" id="Node000001" title="This component is simply used to find spawn points in the scene." alt="" coords="5,80,177,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,5,147,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,48,94,80,88,80,88,48"/>
+</map>
